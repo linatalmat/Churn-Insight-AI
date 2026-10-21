@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnement virtuel
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données brutes et nettoyées
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Modèles entraînés
+models/
+
+# Variables et secrets
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
