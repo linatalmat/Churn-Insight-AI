@@ -3,3 +3,6 @@ matplotlib
 scikit-learn
 jupyter
 ipykernel
+scikit-learn
+joblib
+streamlit

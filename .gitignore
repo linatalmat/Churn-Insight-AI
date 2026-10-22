@@ -4,6 +4,7 @@ __pycache__/
 
 # Environnement virtuel
 .venv/
+.venv312/
 venv/
 
 # Jupyter
